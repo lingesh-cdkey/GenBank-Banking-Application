@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #0a3d62;
+}
+
+input, button {
+  padding: 10px;
+  margin: 8px;
+  width: 200px;
+}
+
+button, .btn {
+  background: #0a3d62;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 10px 20px;
+}
