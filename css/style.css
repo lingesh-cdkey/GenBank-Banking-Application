@@ -1,24 +1,37 @@
-body {
-  font-family: Arial, sans-serif;
-  background: #f4f6f8;
+ body {
+  font-family: Arial;
+  background: #eef2f3;
   text-align: center;
 }
 
-h1, h2 {
+h1, h2, h3 {
   color: #0a3d62;
 }
 
 input, button {
   padding: 10px;
   margin: 8px;
-  width: 200px;
 }
 
-button, .btn {
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.btn {
   background: #0a3d62;
   color: white;
-  border: none;
-  cursor: pointer;
+  padding: 10px 15px;
   text-decoration: none;
-  padding: 10px 20px;
+  margin: 5px;
+}
+
+.danger {
+  background: #c0392b;
 }
