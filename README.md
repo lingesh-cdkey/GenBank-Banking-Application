@@ -1,23 +1,27 @@
 # GenBank – Banking Application
 
-GenBank is a basic banking web application developed using HTML, CSS, and SQL.
-The project demonstrates core banking features such as user login, account dashboard,
-balance display, and transaction records.
+GenBank is a full-stack banking web application developed using HTML, CSS, PHP, and MySQL.
+It simulates core banking operations such as authentication, deposits, withdrawals, and
+transaction tracking.
 
 ## Features
-- Customer login interface
-- Account dashboard
-- Transaction history view
-- Structured banking database
+- Secure login system
+- Account dashboard with balance
+- Deposit and withdraw functionality
+- Transaction history tracking
+- Session management
 
-## Technologies Used
-- HTML
-- CSS
-- MySQL
+## Tech Stack
+- Frontend: HTML, CSS
+- Backend: PHP
+- Database: MySQL
 
-## Use Case
-This project is designed for academic learning and portfolio demonstration of
-database-driven web applications.
+## Learning Outcome
+- Database design
+- Server-side scripting
+- CRUD operations
+- Session handling
+- Real-time transaction processing
 
 ## Author
 M Lingesh
